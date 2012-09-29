@@ -1,0 +1,20 @@
+E:\Program Web\Semana 1\2\RESTServices\RESTServices\bin\RESTServices.dll
+E:\Program Web\Semana 1\2\RESTServices\RESTServices\bin\RESTServices.pdb
+E:\Program Web\Semana 1\2\RESTServices\RESTServices\obj\Debug\ResolveAssemblyReference.cache
+E:\Program Web\Semana 1\2\RESTServices\RESTServices\obj\Debug\RESTServices.dll
+E:\Program Web\Semana 1\2\RESTServices\RESTServices\obj\Debug\RESTServices.pdb
+C:\Users\proyecto\Downloads\RESTServices\RESTServices\RESTServices\bin\RESTServices.dll
+C:\Users\proyecto\Downloads\RESTServices\RESTServices\RESTServices\bin\RESTServices.pdb
+C:\Users\proyecto\Downloads\RESTServices\RESTServices\RESTServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\proyecto\Downloads\RESTServices\RESTServices\RESTServices\obj\Debug\RESTServices.dll
+C:\Users\proyecto\Downloads\RESTServices\RESTServices\RESTServices\obj\Debug\RESTServices.pdb
+G:\SISTEMAS DISTRIBUIDOS\RESTServices\RESTServices\RESTServices\bin\RESTServices.dll
+G:\SISTEMAS DISTRIBUIDOS\RESTServices\RESTServices\RESTServices\bin\RESTServices.pdb
+G:\SISTEMAS DISTRIBUIDOS\RESTServices\RESTServices\RESTServices\obj\Debug\ResolveAssemblyReference.cache
+G:\SISTEMAS DISTRIBUIDOS\RESTServices\RESTServices\RESTServices\obj\Debug\RESTServices.dll
+G:\SISTEMAS DISTRIBUIDOS\RESTServices\RESTServices\RESTServices\obj\Debug\RESTServices.pdb
+C:\Users\USUARIO\Downloads\RESTServices_Maribel\RESTServices\bin\RESTServices.dll
+C:\Users\USUARIO\Downloads\RESTServices_Maribel\RESTServices\bin\RESTServices.pdb
+C:\Users\USUARIO\Downloads\RESTServices_Maribel\RESTServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USUARIO\Downloads\RESTServices_Maribel\RESTServices\obj\Debug\RESTServices.dll
+C:\Users\USUARIO\Downloads\RESTServices_Maribel\RESTServices\obj\Debug\RESTServices.pdb

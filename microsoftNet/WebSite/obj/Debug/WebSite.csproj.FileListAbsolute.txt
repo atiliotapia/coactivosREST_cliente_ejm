@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Downloads\RESTServices_Maribel\WebSite\bin\WebSite.dll
+C:\Users\USUARIO\Downloads\RESTServices_Maribel\WebSite\bin\WebSite.pdb
+C:\Users\USUARIO\Downloads\RESTServices_Maribel\WebSite\bin\RESTTests.dll
+C:\Users\USUARIO\Downloads\RESTServices_Maribel\WebSite\bin\RESTTests.pdb
+C:\Users\USUARIO\Downloads\RESTServices_Maribel\WebSite\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USUARIO\Downloads\RESTServices_Maribel\WebSite\obj\Debug\WebSite.dll
+C:\Users\USUARIO\Downloads\RESTServices_Maribel\WebSite\obj\Debug\WebSite.pdb

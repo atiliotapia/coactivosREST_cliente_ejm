@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="da60ae7b-0d06-42cb-b2dc-ea137e5ad594" name="USUARIO@DELL-PC 2012-09-29 01:55:31" runUser="Dell-PC\USUARIO" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="59282945-c858-49ae-8958-999bfedb50cd">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="USUARIO_DELL-PC 2012-09-29 01_55_31" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-09-29T01:55:31.5546806-05:00" queuing="2012-09-29T01:55:31.5836823-05:00" start="2012-09-29T01:55:31.5896826-05:00" finish="2012-09-29T01:55:47.1325716-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CRUDTest" storage="c:\users\usuario\downloads\restservices_maribel\resttests\bin\debug\resttests.dll" id="c0732776-799d-4450-df75-c14983923888">
+      <Execution id="5797b9a4-6098-499e-b322-166c132c894d" />
+      <TestMethod codeBase="C:/Users/USUARIO/Downloads/RESTServices_Maribel/RESTTests/bin/Debug/RESTTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RESTTests.AlumnosText, RESTTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CRUDTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="c0732776-799d-4450-df75-c14983923888" executionId="5797b9a4-6098-499e-b322-166c132c894d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="5797b9a4-6098-499e-b322-166c132c894d" testId="c0732776-799d-4450-df75-c14983923888" testName="CRUDTest" computerName="DELL-PC" duration="00:00:15.3038766" startTime="2012-09-29T01:55:31.5916827-05:00" endTime="2012-09-29T01:55:47.0695680-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5797b9a4-6098-499e-b322-166c132c894d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;0&gt;. Actual:&lt;10&gt;. </Message>
+          <StackTrace>   at RESTTests.AlumnosText.CRUDTest() in C:\Users\USUARIO\Downloads\RESTServices_Maribel\RESTTests\AlumnosText.cs:line 111
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

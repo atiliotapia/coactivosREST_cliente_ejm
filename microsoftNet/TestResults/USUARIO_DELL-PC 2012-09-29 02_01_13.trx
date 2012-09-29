@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7748bb0c-fe9b-41e1-8201-70cfff2df3f0" name="USUARIO@DELL-PC 2012-09-29 02:01:13" runUser="Dell-PC\USUARIO" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="59282945-c858-49ae-8958-999bfedb50cd">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="USUARIO_DELL-PC 2012-09-29 02_01_13" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-09-29T02:01:13.1672197-05:00" queuing="2012-09-29T02:01:13.1972214-05:00" start="2012-09-29T02:01:13.2052219-05:00" finish="2012-09-29T02:01:28.6301041-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CRUDTest" storage="c:\users\usuario\downloads\restservices_maribel\resttests\bin\debug\resttests.dll" id="c0732776-799d-4450-df75-c14983923888">
+      <Execution id="1a209442-18e9-4147-8b5e-5d4830273112" />
+      <TestMethod codeBase="C:/Users/USUARIO/Downloads/RESTServices_Maribel/RESTTests/bin/Debug/RESTTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RESTTests.AlumnosText, RESTTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CRUDTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="c0732776-799d-4450-df75-c14983923888" executionId="1a209442-18e9-4147-8b5e-5d4830273112" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="1a209442-18e9-4147-8b5e-5d4830273112" testId="c0732776-799d-4450-df75-c14983923888" testName="CRUDTest" computerName="DELL-PC" duration="00:00:15.1982046" startTime="2012-09-29T02:01:13.2052219-05:00" endTime="2012-09-29T02:01:28.5781012-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1a209442-18e9-4147-8b5e-5d4830273112">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;{"response":{"clientes":{"cliente":[{"complemento":7,"complementoIdMoneda":7,"descripcion1":"Aldo","descripcion2":"Zubiate Angeles","direccion":"Av. San Juan 425","id":4000,"idDistrito":1,"idEstadoDeuda":8,"idExterno":"cli001","nroIdentificacion":72868244,"saldo":0},{"complemento":7,"complementoIdMoneda":7,"descripcion1":"EMPRESA SAN FERNANDO S.A.","descripcion2":"","direccion":"AV. LOS NARDOS N° 4596","id":4001,"idDistrito":1,"idEstadoDeuda":8,"idExterno":4569,"nroIdentificacion":45896982,"saldo":0},{"complemento":7,"complementoIdMoneda":7,"descripcion1":"RECOMXISUR SAC","descripcion2":"","direccion":"AV. EL BRILLANTE Nª 155 SECTOR EL BRILLANTE Nº 98 LOTE 16 PAMPLONA ALTA - SJM","id":4002,"idDistrito":1,"idEstadoDeuda":8,"idExterno":243196,"nroIdentificacion":0,"saldo":0},{"complemento":7,"complementoIdMoneda":7,"descripcion1":"CIA. DE NEGOCIOS INMOBILIARIOS SAC. (CONIMSAC)","descripcion2":"","direccion":"CA. AUGUSTO ANGULO NUM. 130 URB. SAN ANTONIO MIRAFLORES","id":4003,"idDistrito":10,"idEstadoDeuda":8,"idExterno":73680,"nroIdentificacion":0,"saldo":0},{"complemento":7,"complementoIdMoneda":7,"descripcion1":"COMERCIAL LA ROMANA S.R.L.","descripcion2":"","direccion":"JR. JUAN CASTILLA Nº 405 MZ. D3, LT. 15 ZONA A URB. SAN JUAN ","id":4004,"idDistrito":1,"idEstadoDeuda":8,"idExterno":"011770","nroIdentificacion":0,"saldo":0},{"complemento":7,"complementoIdMoneda":7,"descripcion1":"LUCILA","descripcion2":"CONDORI QUISPE","direccion":"JR. FRANCISCO DE PAULA UGARRIZA N° 969 MZ. E, LT. 17 ZONA C-1 URB. SAN JUAN","id":4005,"idDistrito":1,"idEstadoDeuda":8,"idExterno":117457,"nroIdentificacion":0,"saldo":4557},{"complemento":7,"complementoIdMoneda":7,"descripcion1":"TEÓFILO TOMÁS ","descripcion2":"COSEATADO PARCO","direccion":"AA.HH. TRÉBOL AZUL MZ. O, LT. 14 PAMPAS DE SAN JUAN","id":4006,"idDistrito":1,"idEstadoDeuda":8,"idExterno":"012779","nroIdentificacion":8381655,"saldo":92},{"complemento":7,"complementoIdMoneda":7,"descripcion1":"PAULO HERNÁN","descripcion2":"HINOSTROZA GUZMÁN","direccion":"URB. MONTERRICO SUR MZ. A1, LT. 4 ZONA RESIDENCIAL SAN JUAN DE MIRAFLORES","id":4007,"idDistrito":1,"idEstadoDeuda":8,"idExterno":60963,"nroIdentificacion":4526,"saldo":15753},{"complemento":7,"complementoIdMoneda":7,"descripcion1":"MARCELINO","descripcion2":"OSCORIMA MEDINA","direccion":"MZ. I, LT. 23 AA.HH. EL PACIFICO II ETAPA PAMPAS DE SAN JUAN ","id":4008,"idDistrito":1,"idEstadoDeuda":8,"idExterno":"0248723","nroIdentificacion":8937802,"saldo":448},{"complemento":7,"complementoIdMoneda":7,"descripcion1":"FERNÁNDEZ MATOS","descripcion2":"MÁXIMO CLAUDIO","direccion":"SECT. EL NAZARENO MZ. E, LT. 32 PAMPLONA ALTA ","id":4009,"idDistrito":1,"idEstadoDeuda":8,"idExterno":"016239","nroIdentificacion":104853371,"saldo":225}]}}}&gt;. Actual:&lt;ok&gt;. </Message>
+          <StackTrace>   at RESTTests.AlumnosText.CRUDTest() in C:\Users\USUARIO\Downloads\RESTServices_Maribel\RESTTests\AlumnosText.cs:line 111
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\UPC\Sistemas Distribuidos\Publish" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/RESTTests.pdb" publishTime="09/29/2012 03:06:14" />
+    <file relUrl="bin/RESTTests.dll" publishTime="09/29/2012 03:06:14" />
+    <file relUrl="bin/WebSite.pdb" publishTime="09/29/2012 03:06:14" />
+    <file relUrl="Web.config" publishTime="09/29/2012 03:06:17" />
+    <file relUrl="ListadoClientes.aspx" publishTime="09/29/2012 02:55:56" />
+    <file relUrl="Default.aspx" publishTime="09/29/2012 03:01:27" />
+    <file relUrl="bin/WebSite.dll" publishTime="09/29/2012 03:06:14" />
+  </publishProfile>
+</publishData>

@@ -1,0 +1,20 @@
+E:\Program Web\Semana 1\2\RESTServices\RESTTests\bin\Debug\RESTTests.dll
+E:\Program Web\Semana 1\2\RESTServices\RESTTests\bin\Debug\RESTTests.pdb
+E:\Program Web\Semana 1\2\RESTServices\RESTTests\obj\Debug\ResolveAssemblyReference.cache
+E:\Program Web\Semana 1\2\RESTServices\RESTTests\obj\Debug\RESTTests.dll
+E:\Program Web\Semana 1\2\RESTServices\RESTTests\obj\Debug\RESTTests.pdb
+C:\Users\proyecto\Downloads\RESTServices\RESTServices\RESTTests\bin\Debug\RESTTests.dll
+C:\Users\proyecto\Downloads\RESTServices\RESTServices\RESTTests\bin\Debug\RESTTests.pdb
+C:\Users\proyecto\Downloads\RESTServices\RESTServices\RESTTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\proyecto\Downloads\RESTServices\RESTServices\RESTTests\obj\Debug\RESTTests.dll
+C:\Users\proyecto\Downloads\RESTServices\RESTServices\RESTTests\obj\Debug\RESTTests.pdb
+G:\SISTEMAS DISTRIBUIDOS\RESTServices\RESTServices\RESTTests\obj\Debug\ResolveAssemblyReference.cache
+G:\SISTEMAS DISTRIBUIDOS\RESTServices\RESTServices\RESTTests\obj\Debug\RESTTests.dll
+G:\SISTEMAS DISTRIBUIDOS\RESTServices\RESTServices\RESTTests\bin\Debug\RESTTests.dll
+G:\SISTEMAS DISTRIBUIDOS\RESTServices\RESTServices\RESTTests\bin\Debug\RESTTests.pdb
+G:\SISTEMAS DISTRIBUIDOS\RESTServices\RESTServices\RESTTests\obj\Debug\RESTTests.pdb
+C:\Users\USUARIO\Downloads\RESTServices_Maribel\RESTTests\bin\Debug\RESTTests.dll
+C:\Users\USUARIO\Downloads\RESTServices_Maribel\RESTTests\bin\Debug\RESTTests.pdb
+C:\Users\USUARIO\Downloads\RESTServices_Maribel\RESTTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USUARIO\Downloads\RESTServices_Maribel\RESTTests\obj\Debug\RESTTests.dll
+C:\Users\USUARIO\Downloads\RESTServices_Maribel\RESTTests\obj\Debug\RESTTests.pdb

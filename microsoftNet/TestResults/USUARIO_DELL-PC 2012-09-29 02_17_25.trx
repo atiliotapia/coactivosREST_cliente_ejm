@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="1fb55bfa-b074-4595-bbe5-6c0369f306e6" name="USUARIO@DELL-PC 2012-09-29 02:17:25" runUser="Dell-PC\USUARIO" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="59282945-c858-49ae-8958-999bfedb50cd">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="USUARIO_DELL-PC 2012-09-29 02_17_25" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-09-29T02:17:25.6798443-05:00" queuing="2012-09-29T02:17:25.7388476-05:00" start="2012-09-29T02:17:25.7458480-05:00" finish="2012-09-29T02:17:30.2061031-05:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CRUDTest" storage="c:\users\usuario\downloads\restservices_maribel\resttests\bin\debug\resttests.dll" id="c0732776-799d-4450-df75-c14983923888">
+      <Execution id="43a6120d-e210-4056-bff0-e7be5b795406" />
+      <TestMethod codeBase="C:/Users/USUARIO/Downloads/RESTServices_Maribel/RESTTests/bin/Debug/RESTTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RESTTests.AlumnosText, RESTTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CRUDTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="c0732776-799d-4450-df75-c14983923888" executionId="43a6120d-e210-4056-bff0-e7be5b795406" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="43a6120d-e210-4056-bff0-e7be5b795406" testId="c0732776-799d-4450-df75-c14983923888" testName="CRUDTest" computerName="DELL-PC" duration="00:00:03.7605447" startTime="2012-09-29T02:17:25.7488482-05:00" endTime="2012-09-29T02:17:29.6900736-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="43a6120d-e210-4056-bff0-e7be5b795406">
+    </UnitTestResult>
+  </Results>
+</TestRun>
