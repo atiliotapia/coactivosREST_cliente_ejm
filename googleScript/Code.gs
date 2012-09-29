@@ -60,5 +60,34 @@ var result = UrlFetchApp.fetch("http://rest-coactivos.aesoluciones.cloudbees.net
     
   }
 }
+
+function enviarCorreo() {  
+  var sheet =  SpreadsheetApp.getActiveSpreadsheet()
+      var cell =  sheet.getRange("A2:K10")
+  var value = cell.getValue()
+             
+             MailApp.sendEmail("atilio.tapia@gmail.com, jhonathan.lmg@gmail.com, vidasaor@gmail.com, 
+
+eescobar.dev@gmail.com", "Municipio SJM", value)                               
+  
+}
+
+function funcionA() {  
+  Browser.msgBox("Hola Alumno");   
+  
+}
+
+function funcionB() {  
+  Browser.msgBox("Hola Profesor");   
+  
+}
+
+
+function myFunction() {  
+  Browser.msgBox("Grupo UPC- Sistemas Distribuidos 2012 ");  
+  
+  //var ss = SpreadsheetApp.getActiveSpreadsheet()
+      //var subMenu = 
+}
   
 
