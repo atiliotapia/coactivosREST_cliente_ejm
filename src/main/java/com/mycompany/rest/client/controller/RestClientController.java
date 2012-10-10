@@ -25,7 +25,7 @@ import com.mycompany.rest.client.domain.PersonList;
 import com.mycompany.rest.util.Writer;
 
 /**
- * REST service client
+ * REST service cliente controlador
  */
 @Controller
 public class RestClientController {
